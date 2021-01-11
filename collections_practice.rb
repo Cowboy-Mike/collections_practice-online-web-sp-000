@@ -39,3 +39,4 @@ def find_a(array)
 def sum_array(array)
   array.inject(:+)
 end
+end
